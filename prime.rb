@@ -7,3 +7,4 @@ def prime?(num) # Add  code here!
     puts "#{n} is not prime."
     end
 end
+prime(2)
